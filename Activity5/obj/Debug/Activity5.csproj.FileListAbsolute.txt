@@ -1,0 +1,12 @@
+C:\Users\Karl\Desktop\C#_Aton\Activity5\Activity5\bin\Debug\Activity5.exe.config
+C:\Users\Karl\Desktop\C#_Aton\Activity5\Activity5\bin\Debug\Activity5.exe
+C:\Users\Karl\Desktop\C#_Aton\Activity5\Activity5\bin\Debug\Activity5.pdb
+C:\Users\Karl\Desktop\C#_Aton\Activity5\Activity5\obj\Debug\Activity5.Form1.resources
+C:\Users\Karl\Desktop\C#_Aton\Activity5\Activity5\obj\Debug\Activity5.Properties.Resources.resources
+C:\Users\Karl\Desktop\C#_Aton\Activity5\Activity5\obj\Debug\Activity5.csproj.GenerateResource.Cache
+C:\Users\Karl\Desktop\C#_Aton\Activity5\Activity5\obj\Debug\Activity5.exe
+C:\Users\Karl\Desktop\C#_Aton\Activity5\Activity5\obj\Debug\Activity5.pdb
+C:\Users\Karl\Desktop\C#_Aton\Activity5\Activity5\obj\Debug\Activity5.csprojResolveAssemblyReference.cache
+C:\Users\Karl\Desktop\C# WinForm\Activity5\Activity5\bin\Debug\Activity5.exe.config
+C:\Users\Karl\Desktop\C# WinForm\Activity5\Activity5\obj\Debug\Activity5.exe
+C:\Users\Karl\Desktop\C# WinForm\Activity5\Activity5\obj\Debug\Activity5.pdb
